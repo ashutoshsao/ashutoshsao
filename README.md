@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashutoshsao
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning c
+- 🌱 I’m currently learning cpp
 - 💞️ I’m looking to collaborate on things I can learn from.
 - 📫 How to reach me ashutoshsao17@gmail.com
 
