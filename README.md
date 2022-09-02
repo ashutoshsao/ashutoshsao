@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ashutoshsao
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning cpp
+- 👀 I’m interested in **DevOps**
+- 🌱 I’m currently learning **java**
 - 💞️ I’m looking to collaborate on things I can learn from.
-- 📫 How to reach me ashutoshsao17@gmail.com
+- 📫 How to reach me [my mail](ashutoshsao17@gmail.com)
 
 <!---
 ashutoshsao/ashutoshsao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
