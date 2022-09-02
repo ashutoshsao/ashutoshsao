@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ashutoshsao
-- 👀 I’m interested in **DevOps**
+- 👋 Hi, I’m ashutosh sao
+- 👀 Empowering and contributing to opensource
 - 🌱 I’m currently learning **java**
 - 💞️ I’m looking to collaborate on things I can learn from.
 - 📫 How to reach me [my mail](ashutoshsao17@gmail.com)
