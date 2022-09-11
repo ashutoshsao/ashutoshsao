@@ -1,4 +1,4 @@
-<img src="github.png" width="80%">
+<img src="github.png" width="100%">
 
 - 👋 Hi, I’m ashutosh sao
 - 👀 Empowering and contributing to opensource
