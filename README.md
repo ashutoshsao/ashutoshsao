@@ -1,4 +1,4 @@
-![ash](ashutoshsao/github.png)
+![ash](github.png)
 
 - 👋 Hi, I’m ashutosh sao
 - 👀 Empowering and contributing to opensource
