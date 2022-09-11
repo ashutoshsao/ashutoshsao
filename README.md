@@ -1,4 +1,4 @@
-![ash](github.png)
+<img src="github.png" width="80%">
 
 - 👋 Hi, I’m ashutosh sao
 - 👀 Empowering and contributing to opensource
