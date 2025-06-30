@@ -1,7 +1,6 @@
 <img src="github_cover.png" width="100%">
 
 - 👋 Hi, I’m ashutosh sao
-- 💞️ I’m looking to collaborate on things I can learn from.
 - 📫 How to reach me [my mail](ashutoshsao17@gmail.com)
 
 <!---
