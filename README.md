@@ -1,7 +1,15 @@
 <img src="github_cover.png" width="100%">
 
-- 👋 Hi, I’m ashutosh sao :shipit:
-- 📫 How to reach me [my mail](ashutoshsao17@gmail.com)
+## Ashutosh Sao
+
+Building backend systems (TypeScript/Bun, Redis, Postgres, k8s) at **Super30 (100xSchool)** · 16 merged PRs at **Palisadoes Foundation**.
+
+### Projects
+
+- **[Perps](https://github.com/ashutoshsao/Perps)** — perpetual-futures exchange engine (single-writer order book, Redis Streams, WebSocket price feeds, snapshot-based deterministic restart/recovery)
+- **[Plum](https://github.com/ashutoshsao/plum)** — terminal AI agent CLI with a bounded tool-calling loop
+
+[ashutoshsao.com](https://ashutoshsao.com) · [ashutoshsao17@gmail.com](mailto:ashutoshsao17@gmail.com)
 
 <!---
 ashutoshsao/ashutoshsao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
