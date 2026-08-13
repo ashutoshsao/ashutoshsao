@@ -1,4 +1,4 @@
-<img src="github_cover.png" width="100%">
+<img src="github_cover.webp" width="100%">
 
 ## Ashutosh Sao
 
