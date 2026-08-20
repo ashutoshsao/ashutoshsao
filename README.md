@@ -6,7 +6,7 @@ Building backend systems (TypeScript/Bun, Redis, Postgres, k8s) at **Super30 (10
 
 ### Projects
 
-- **[Perps](https://github.com/ashutoshsao/Perps)** — perpetual-futures exchange engine (single-writer order book, Redis Streams, WebSocket price feeds, snapshot-based deterministic restart/recovery)
+- **[Nebula](https://github.com/ashutoshsao/nebula)** — perpetual-futures exchange engine (single-writer order book, Redis Streams, WebSocket price feeds, snapshot-based deterministic restart/recovery)
 - **[Plum](https://github.com/ashutoshsao/plum)** — terminal AI agent CLI with a bounded tool-calling loop
 
 [ashutoshsao.com](https://ashutoshsao.com) · [ashutoshsao17@gmail.com](mailto:ashutoshsao17@gmail.com)
