@@ -6,8 +6,10 @@ Building backend systems (TypeScript/Bun, Redis, Postgres, k8s) at **Super30 (10
 
 ### Projects
 
-- **[Nebula](https://nebula.ashutoshsao.com/trade/BTC-PERP)** — perpetual-futures exchange engine (single-writer order book, Redis Streams, WebSocket price feeds, snapshot-based deterministic restart/recovery) · [source](https://github.com/ashutoshsao/nebula)
-- **[Orin](https://orin.ashutoshsao.com)** — AI app builder: describe an app and watch an agent build it live in a cloud sandbox (agent loop with tool-calling, SSE streaming, git snapshots to R2 for crash-safe resume/rewind, guest links with step budgets) · [source](https://github.com/ashutoshsao/orin)
+Both live in production on GKE.
+
+- **[Orin](https://orin.ashutoshsao.com)** — AI app builder: describe an app and watch an agent build it live in a cloud sandbox. Provider-agnostic agent loop (OpenAI-compatible + Claude Messages API), SSE streaming, per-round git snapshots to R2 for crash-safe resume/rewind, and invite / guest-link / BYOK tiers with atomically-enforced step budgets · [source](https://github.com/ashutoshsao/orin)
+- **[Nebula](https://nebula.ashutoshsao.com/trade/BTC-PERP)** — perpetual-futures exchange engine: single-writer in-memory matching engine fed typed Redis Stream commands, margin/liquidation and funding-rate settlement, live order-book and price feeds over WebSockets, deterministic snapshot/replay recovery via R2 · [source](https://github.com/ashutoshsao/nebula)
 
 [ashutoshsao.com](https://ashutoshsao.com) · [ashutoshsao17@gmail.com](mailto:ashutoshsao17@gmail.com)
 
