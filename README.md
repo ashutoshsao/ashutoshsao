@@ -1,6 +1,6 @@
 <img src="github_cover.webp" width="100%">
 
-## Ashutosh Sao
+**Ashutosh Sao**
 
 I build real-time systems and AI agents: *software that earns trust*.
 
